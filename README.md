@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranshu3099
-- 👀 I’m interested in technologies such as HTML,CSS,Javascript,Reactjs,Nodejs, Nextjs, Typescript
+- 👀 I’m interested in technologies such as HTML,CSS,Javascript,Reactjs,Nodejs,Nextjs,Typescript
 - 🌱 I’m currently learning Data Structures with Nodejs.
 - 💞️ I’m looking to collaborate on Javascript and Reactjs Projects.
 - 📫 How to reach me:-Linkedin,Twitter
